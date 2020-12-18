@@ -1,5 +1,5 @@
 ### Welcome to my GitHub Profile!
-![image title](https://rushter.com/counter.svg)
+[![HitCount](http://hits.dwyl.com/hovikgas/hovikgas.svg)](http://hits.dwyl.com/hovikgas/hovikgas)
 
 - 🔭 I’m currently working on teaching Data Science at General Assembly
 - 🌱 I’m currently learning PySpark
