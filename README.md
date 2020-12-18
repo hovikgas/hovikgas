@@ -6,6 +6,6 @@
 - 👯 I’m looking to collaborate on [COVID-19 Data Analysis](https://covid19.census.gov)
 - 🤔 I’m looking for help with AWS Data Streaming
 - 💬 Ask me about JupyterLab
-- 📫 How to reach me: [@hovanes](twitter.com/hovanes)
+- 📫 How to reach me: [@hovanes](https://twitter.com/hovanes)
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: [Cal](berkeley.edu) & [USC](usc.edu) Alumnus... so basically I'm a Golden Trojan
+- ⚡ Fun fact: [Cal](https://berkeley.edu) & [USC](https://usc.edu) Alumnus... so basically I'm a Golden Trojan! 
