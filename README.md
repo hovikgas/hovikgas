@@ -1,5 +1,6 @@
 ### Welcome to my GitHub Profile!
-[![HitCount](http://hits.dwyl.com/hovikgas/hovikgas.svg)](http://hits.dwyl.com/hovikgas/hovikgas)
+
+![Profile Views](https://komarev.com/ghpvc/?username=hovikgas)
 
 - 🔭 I’m currently working on teaching Data Science at General Assembly
 - 🌱 I’m currently learning PySpark
@@ -9,3 +10,5 @@
 - 📫 How to reach me: [@hovanes](https://twitter.com/hovanes)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: [Cal](https://berkeley.edu) & [USC](https://usc.edu) Alumnus... so basically I'm a Golden Trojan! 
+
+![](https://hit.yhype.me/github/profile?user_id=17107339)
