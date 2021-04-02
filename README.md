@@ -2,10 +2,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hovikgas)
 
-- 🔭 I’m currently working on teaching Data Science at General Assembly
-- 🌱 I’m currently learning PySpark
-- 👯 I’m looking to collaborate on [COVID-19 Data Analysis](https://covid19.census.gov)
-- 🤔 I’m looking for help with AWS Data Streaming
+- 🔭 I’m currently working on personalization at VIZIO
+- 🌱 I’m currently learning C# and the whole .NET Framework.
+- 👯 I’m looking to collaborate on building recommendation systems
+- 🤔 I’m looking for help with building data pipelines
 - 💬 Ask me about JupyterLab
 - 📫 How to reach me: [@hovanes](https://twitter.com/hovanes)
 - 😄 Pronouns: He/Him/His
