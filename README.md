@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=hovikgas)
 
 - 🔭 I’m currently working on personalization at VIZIO
-- 🌱 I’m currently learning C# and the whole .NET Framework.
+- 🌱 I’m currently learning about Stable Diffusion.
 - 👯 I’m looking to collaborate on building recommendation systems
 - 🤔 I’m looking for help with building data pipelines
 - 💬 Ask me about JupyterLab
